@@ -1,7 +1,7 @@
 <?php
 
-require_once "AthleteManager.php";
-require_once "EventManager.php";
+require_once "Athlete.php";
+require_once "Event.php";
 require_once "Medal.php";
 
 class Result{
